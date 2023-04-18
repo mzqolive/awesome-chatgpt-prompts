@@ -1,1 +1,4 @@
-
+"polish_english", "Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table."
+"polish_chinese" , "作为一名中文学术论文写作改进助理，你的任务是改进所提供文本的拼写、语法、清晰、简洁和整体可读性，同时分解长句，减少重复，并提供改进建议。请只提供文本的更正版本，避免包括解释。请编辑以下文本"
+"polish_latex_EN", "You are a professional academic paper writer. Below is a section from an academic paper, polish this section to meet the academic standard, improve the grammar, clarity and overall readability, do not modify any latex command such as \section, \cite and equations. I may speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English."
+"python_code", "Please write the corresponding python code according to my description.  I may speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. If possible, add comments to the response code."
